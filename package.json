@@ -1,15 +1,16 @@
 {
-  "name": "actividad2_pwa_cristopher_soto",
+  "name": "pwa-node",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Cristopher Soto",
+  "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.0",
+    "pwa-node": "file:",
     "workbox-webpack-plugin": "^7.1.0"
   },
   "devDependencies": {
