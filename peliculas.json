@@ -1,0 +1,40 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "El sexto sentido",
+            "director": "M. Night Shymalan",
+            "clasificación": "Drama"
+        },
+        {
+            "id": 2,
+            "nombre": "Harry Potter y la Orden del Fenix",
+            "director": "Alfonso Cuarón",
+            "clasificación": "Drama"
+        },
+        {
+            "id": 3,
+            "nombre": "Toy Story",
+            "director": "John Lasseter",
+            "clasificación": "Infantil"
+        },
+        {
+            "id": 4,
+            "nombre": "Los juegos del hambre",
+            "director": "Garry Ross",
+            "clasificación": "Acción"
+        },
+        {
+            "id": 5,
+            "nombre": "Saw",
+            "director": "Darren Lynn Bousman",
+            "clasificación": "Terror"
+        },
+        {
+            "id": 6,
+            "nombre": "Eterno Resplandor de una mente sin recuerdos",
+            "director": "Michel Gondry",
+            "clasificación": "Romance"
+        }
+    ]
+}
